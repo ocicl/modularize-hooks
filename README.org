@@ -1,0 +1,10 @@
+* modularize-hooks
+
+Generic hooks and triggers extension for modularize.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/Shinmera/modularize-hooks.git   |
+| commit  | e0348ed  |
+| systems | modularize-hooks |
+|---------+-------------------------------------------|
+
