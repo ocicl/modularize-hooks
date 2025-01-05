@@ -2,9 +2,8 @@
 
 Generic hooks and triggers extension for modularize.
 
-|---------+-------------------------------------------|
-| source  | git:https://github.com/Shinmera/modularize-hooks.git   |
-| commit  | 5c46dec  |
-| systems | modularize-hooks |
-|---------+-------------------------------------------|
-
+|---------+------------------------------------------------------|
+| source  | git:https://github.com/Shinmera/modularize-hooks.git |
+| commit  | 5156bab                                              |
+| systems | modularize-hooks                                     |
+|---------+------------------------------------------------------|
