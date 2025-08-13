@@ -4,6 +4,6 @@ Generic hooks and triggers extension for modularize.
 
 |---------+------------------------------------------------------|
 | source  | git:https://github.com/Shinmera/modularize-hooks.git |
-| commit  | f2f530e                                              |
+| commit  | 80bf419                                              |
 | systems | modularize-hooks                                     |
 |---------+------------------------------------------------------|
